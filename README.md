@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=102030&text=Ssroid%20Github&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=000000&text=Ssroid%20Github&fontSize=35&fontColor=ffffff&fontAlign=15&fontAlignY=30&animation=fadeIn)
 
-<div align="center">
+<div align="left">
 
 ### 📞Communication
 
@@ -25,14 +25,20 @@
 
 ### 🕹️Tools
 <!--OS-->
-<img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"> <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> 
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"> 
+<br/>
 
 <!--Communication-->
 <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> 
-<img src="https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"> 
-<img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">  
+<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">   
 <br/>
 
+<div align="left">
+    
+### 🏅Solve.ac Tier 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=coex0113)](https://solved.ac/coex0113)
+</div>
 
 <a href="https://github.com/Ssroid/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssroid&layout=donut&show_icons=true&theme=dracula&count_private=true&exclude_repo=Face-Transfer-Application" width=35% />
@@ -46,12 +52,6 @@
 
 </div>
 
-- [header, footer](https://github.com/kyechan99/capsule-render?tab=readme-ov-file#waving-)
-- [stat](https://github.com/anuraghazra/github-readme-stats)
-- [Contribution](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-  
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=150&color=102030)
 
 <!-- 2D3047
 **Ssroid/Ssroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -66,6 +66,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- [header, footer](https://github.com/kyechan99/capsule-render?tab=readme-ov-file#waving-)
+- [stat](https://github.com/anuraghazra/github-readme-stats)
+- [Contribution](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 -->
 
 
