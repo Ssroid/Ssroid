@@ -1,8 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=000000&text=Ssroid%20Github&fontSize=35&fontColor=ffffff&fontAlign=15&fontAlignY=30&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=100&color=2E2E2E&text=Ssroid%20Github&fontSize=65&fontColor=ffffff&fontAlignY=57&animation=fadeIn)
+
 <div>
 
 ### 🪪 About Me
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<a href="https://www.notion.so/Portfolio-da1f5a588e944de9b6afbda0b6c24c10">
+    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</a>
 
 ### 🧢 Tech Skills
 <!--Programming Language-->
@@ -56,6 +59,7 @@
 
 <!-- 2D3047
 **Ssroid/Ssroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=000000&text=Ssroid%20Github&fontSize=35&fontColor=ffffff&fontAlign=15&fontAlignY=30&animation=fadeIn)
 
 Here are some ideas to get you started:
 
