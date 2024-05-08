@@ -40,16 +40,15 @@
     
 ### 🏅Solve.ac Tier 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=coex0113)](https://solved.ac/coex0113)
-</div>
 
 <a href="https://github.com/Ssroid/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssroid&layout=donut&show_icons=true&theme=dracula&count_private=true&exclude_repo=Face-Transfer-Application" width=35% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssroid&layout=donut&show_icons=true&theme=dracula&count_private=true&exclude_repo=Face-Transfer-Application" width=37% />
 </a>    
 <a href="https://github.com/Ssroid/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ssroid&show_icons=true&theme=dracula" width=52% />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ssroid&show_icons=true&theme=dracula" width=55% />
 </a>
 <a href="https://github.com/Ssroid/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ssroid&theme=rogue&height=280" width=87%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ssroid&theme=rogue&height=280" width=92%/>
 </a>
 
 </div>
