@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=010101&text=Ssroid%20Github&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=102030&text=Ssroid%20Github&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=fadeIn)
 
 <div align="center">
 
@@ -35,21 +35,23 @@
 
 
 <a href="https://github.com/Ssroid/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssroid&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=35% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssroid&layout=donut&show_icons=true&theme=dracula&count_private=true&exclude_repo=Face-Transfer-Application" width=35% />
 </a>    
 <a href="https://github.com/Ssroid/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ssroid&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=52% />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ssroid&show_icons=true&theme=dracula" width=52% />
 </a>
 <a href="https://github.com/Ssroid/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ssroid&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=87%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ssroid&theme=rogue&height=280" width=87%/>
 </a>
 
 </div>
 
 - [header, footer](https://github.com/kyechan99/capsule-render?tab=readme-ov-file#waving-)
 - [stat](https://github.com/anuraghazra/github-readme-stats)
+- [Contribution](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=150&color=010101)
+  
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=150&color=102030)
 
 <!-- 2D3047
 **Ssroid/Ssroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
