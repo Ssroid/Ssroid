@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=000000&text=Ssroid%20Github&fontSize=35&fontColor=ffffff&fontAlign=15&fontAlignY=30&animation=fadeIn)
+<div>
 
-<div align="left">
+### 🪪 About Me
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
-### 📞Communication
-
-### 🧢Tech Skills
+### 🧢 Tech Skills
 <!--Programming Language-->
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">  
@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"> 
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
-### 🕹️Tools
+### 🕹️ Tools
 <!--OS-->
 <img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> 
 <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"> 
@@ -34,7 +34,9 @@
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">   
 <br/>
 
-<div align="left">
+</div>
+
+<div align="center">
     
 ### 🏅Solve.ac Tier 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=coex0113)](https://solved.ac/coex0113)
