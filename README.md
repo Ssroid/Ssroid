@@ -1,6 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&height=100&color=2E2E2E&text=Ssroid%20Github&fontSize=65&fontColor=ffffff&fontAlignY=57&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&reversal=true&height=120&color=auto&text=Ssroid%20Github&fontSize=40&fontColor=ffffff&fontAlign=18&fontAlignY=40&animation=fadeIn)  
 
-<div>
+
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&duration=7000&pause=4000&color=000000&center=true&vCenter=true&random=false&width=435&lines=I+try+to+improve+my+security+development+skills)](https://git.io/typing-svg)
 
 ### 🪪 About Me
 <a href="https://www.notion.so/Portfolio-da1f5a588e944de9b6afbda0b6c24c10">
@@ -10,30 +13,47 @@
 ### 🧢 Tech Skills
 <!--Programming Language-->
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">  
+&nbsp
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> 
+&nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
+&nbsp
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">  
+<br/>
+
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+&nbsp
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+&nbsp
+
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white">
 <br/>
 
 <!--Web Framework-->
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <br/>
 
 <!--OS-->
 <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"> 
+&nbsp
 <img src="https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"> 
+&nbsp
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
 ### 🕹️ Tools
-<!--OS-->
+<!--tools-->
 <img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> 
+&nbsp
 <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"> 
+&nbsp
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+&nbsp
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
 <br/>
 
 <!--Communication-->
 <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> 
+&nbsp
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">   
 <br/>
 
@@ -75,7 +95,8 @@ Here are some ideas to get you started:
 - [header, footer](https://github.com/kyechan99/capsule-render?tab=readme-ov-file#waving-)
 - [stat](https://github.com/anuraghazra/github-readme-stats)
 - [Contribution](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
+- https://dkssud8150.github.io/posts/gitpage/
+- color site : https://www.html-color-codes.info/Korean/
 -->
 
 
