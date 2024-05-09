@@ -7,17 +7,17 @@
 
 
 <a href="https://github.com/Ssroid/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ssroid&show_icons=true&theme=apprentice&custom_title=Ssroid+Github+Stats" width=43.5% />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ssroid&show_icons=true&theme=apprentice&custom_title=Ssroid+Github+Stats" width=48% />
 </a>
 <a href="https://github.com/Ssroid/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ssroid&theme=apprentice" width=46.3% />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ssroid&theme=apprentice" width=51% />
 </a> 
 <a href="https://github.com/Ssroid/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ssroid&theme=high-contrast&height=280&bg_color=262626&point=ffffaf&custom_title=Ssroid's+Contribution+Graph" width=90%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ssroid&theme=high-contrast&height=280&bg_color=262626&point=ffffaf&custom_title=Ssroid's+Contribution+Graph" width=99%/>
 </a>
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ssroid&theme=chalk&margin-w=4&margin-h=4&no-frame=true)](https://github.com/Ssroid/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ssroid&theme=chalk&margin-w=6&margin-h=4&no-frame=true)](https://github.com/Ssroid/)
 
 ### 🏅Solve.ac Tier 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=coex0113)](https://solved.ac/coex0113)
