@@ -6,14 +6,14 @@
 ---
 
 
-<a href="https://github.com/Ssroid/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ssroid&show_icons=true&theme=apprentice&custom_title=Ssroid+Github+Stats" width=48% />
+<a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ssroid&show_icons=true&theme=apprentice&custom_title=Ssroid+Github+Stats" width=45% />
 </a>
-<a href="https://github.com/Ssroid/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ssroid&theme=apprentice" width=51% />
+<a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ssroid&theme=apprentice" width=48% />
 </a> 
-<a href="https://github.com/Ssroid/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ssroid&theme=high-contrast&height=280&bg_color=262626&point=ffffaf&custom_title=Ssroid's+Contribution+Graph" width=99%/>
+<a>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ssroid&theme=high-contrast&height=280&bg_color=262626&point=ffffaf&custom_title=Ssroid's+Contribution+Graph&radius=5" width=93%/>
 </a>
 <br/>
 
@@ -84,7 +84,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&reversal=true&height=120&color=auto&text=Ssroid%20Github&fontSize=40&fontColor=ffffff&fontAlign=18&fontAlignY=40&animation=fadeIn)
 
-<a href="https://github.com/Ssroid/github-readme-stats">
+<a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssroid&layout=donut&show_icons=true&theme=dracula&count_private=true&exclude_repo=Face-Transfer-Application" width=37% />
 </a>  
 
