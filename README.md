@@ -7,20 +7,20 @@
 
 
 <a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ssroid&show_icons=true&theme=apprentice&custom_title=Ssroid+Github+Stats" width=45% />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ssroid&show_icons=true&theme=apprentice&custom_title=Ssroid+Github+Stats" width=46% />
 </a>
 <a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ssroid&theme=apprentice" width=48% />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ssroid&theme=apprentice" width=49% />
 </a> 
 <a>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ssroid&theme=high-contrast&height=280&bg_color=262626&point=ffffaf&custom_title=Ssroid's+Contribution+Graph&radius=5" width=93%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ssroid&theme=high-contrast&height=280&bg_color=262626&point=ffffaf&custom_title=Ssroid's+Contribution+Graph&radius=5" width=95%/>
 </a>
 <br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ssroid&theme=chalk&margin-w=6&margin-h=4&no-frame=true)](https://github.com/Ssroid/)
 
 ### 🏅Solve.ac Tier 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=coex0113)](https://solved.ac/coex0113)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coex0113)](https://solved.ac/coex0113)
 ---
 
 ### 🪪 About Me
@@ -57,6 +57,7 @@
 <img src="https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"> 
 &nbsp
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<br/>
 
 ### 🕹️ Tools
 <!--tools-->
@@ -64,9 +65,14 @@
 &nbsp
 <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"> 
 &nbsp
+
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
+<br/>
+
+<!--Container-->
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 &nbsp
-<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <br/>
 
 <!--Communication-->
