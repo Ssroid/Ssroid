@@ -57,7 +57,7 @@
     <tr>
           <td>Database</td>
           <td><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></td>
-          <td rowspan="5"> </td>
+          <td rowspan="5"> <img src="asset/choonsik_pedro.gif" height="180"> </td>
     </tr>
     <tr>
           <td>Tools</td>
