@@ -126,6 +126,7 @@ Here are some ideas to get you started:
 - [Contribution](https://github.com/Ashutosh00710/github-readme-activity-graph)
 - https://dkssud8150.github.io/posts/gitpage/
 - color site : https://www.html-color-codes.info/Korean/
+- [Badge](https://simpleicons.org/)
 -->
 
 
