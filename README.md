@@ -10,14 +10,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ssroid&show_icons=true&theme=apprentice&custom_title=Ssroid+Github+Stats" width=46% />
 </a>
 <a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ssroid&theme=apprentice" width=49% />
+    <img src="https://github-readme-streak-stats-seven-azure.vercel.app/?user=Ssroid&theme=apprentice" width=49% />
 </a> 
 <a>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ssroid&theme=high-contrast&height=280&bg_color=262626&point=ffffaf&custom_title=Ssroid's+Contribution+Graph&radius=5" width=95%/>
 </a>
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ssroid&theme=chalk&margin-w=6&margin-h=4&no-frame=true)](https://github.com/Ssroid/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ssroid&theme=chalk&margin-w=6&margin-h=4&no-frame=true&title=-Stars)](https://github.com/Ssroid/)
 
 ### 🏅Solve.ac Tier 
 
