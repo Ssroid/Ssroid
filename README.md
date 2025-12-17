@@ -19,9 +19,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ssroid&theme=chalk&margin-w=6&margin-h=4&no-frame=true&title=-Stars)](https://github.com/Ssroid/)
 
+<!--
 ### 🏅Solve.ac Tier 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coex0113)](https://solved.ac/coex0113)
+-->
+
 ---
 
 ### <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="20"> &nbsp; Tech Skills &nbsp; <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="20"> 
